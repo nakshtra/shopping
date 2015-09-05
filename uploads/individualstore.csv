@@ -1,0 +1,2 @@
+name,city,brand,address,description,location,latitude,longitude,contactno,workinghoursfrom,workinghoursto,shopclosedon,email
+csvindividual,thane,1,csv address,csvdesc,east,12,33,78787878788,10:00 AM,06:00 PM,Friday,csv@gmail.com
